@@ -1,5 +1,5 @@
 # flipper-flapper
-This is a controller for the beautiful flipper flapperator created by to goat Caleb Kurek
+This is a controller for the beautiful flipper flapperator created by to goat Caleb Kureck
 
 
 Plan:
