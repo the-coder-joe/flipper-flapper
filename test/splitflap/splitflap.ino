@@ -333,8 +333,8 @@
 //#include <AccelStepper.h>
 //
 //// WiFi Credentials
-//const char* ssid = "SpectrumSetup-C9";
-//const char* password = "awayfish026";
+//const char* ssid = "VTOW-Res506";
+//const char* password = "complete23hsc33";
 //
 //// Time Server
 //const char* ntpServer = "pool.ntp.org";
@@ -1008,10 +1008,10 @@ void setup() {
 
 void loop() {
     // Hardcoded 10-letter words
-    std::string hardcodedWord = "WYATT YOU "; // Example with spaces
-    std::string hardcodedWord2 = "SUCK BIG.."; // 10-letter word
-    std::string hardcodedWord3 = "COCKNBALLS"; // 10-letter word
-    std::string hardcodedWord4 = "LOSERRR!!!"; // 10-letter word
+    std::string hardcodedWord = "HELLOOOOO!"; // Example with spaces
+    std::string hardcodedWord2 = "WELCOME TO"; // 10-letter word
+    std::string hardcodedWord3 = "MILWAUKEE!"; // 10-letter word
+    std::string hardcodedWord4 = "GOOD LUCK!"; // 10-letter word
 
     digitalWrite(ledPin, HIGH);
 
