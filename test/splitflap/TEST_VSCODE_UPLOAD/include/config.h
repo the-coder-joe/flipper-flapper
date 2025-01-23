@@ -17,7 +17,7 @@ const int stepPin7 = 23;
 const int stepPin8 = 25;
 const int stepPin9 = 26;
 const int stepPin10 = 27;
-const int ledPin = 4;
+const int mEn = 4;
 
 // Define motor interface type
 extern const int motorInterfaceType;
